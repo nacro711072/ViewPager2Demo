@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="view_pager_left_and_right_padding">20dp</dimen>
+    <dimen name="view_pager_margin">-5dp</dimen>
+
+    <dimen name="tab_layout_height">64dp</dimen>
+</resources>
